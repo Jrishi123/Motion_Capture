@@ -30,6 +30,16 @@ This project demonstrates how to interface a motion capture (MoCap) camera syste
 
 \- Tools: FFmpeg, V4L2, Shell
 
+## 🚀 Quick Start (Windows)
+
+To quickly launch the motion tracker on Windows:
+
+1. Clone the repository
+2. Double-click `run_motion.bat`
+3. Press `q` in the OpenCV window to stop
+
+This will save logs to `motion_log.csv`
+
 
 
 \## 🔧 Setup
