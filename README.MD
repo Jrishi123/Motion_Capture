@@ -1,5 +1,10 @@
 \# 🎥 Linux Motion Capture Using OpenCV \& MoCap Camera
 
+[![GitHub Release](https://img.shields.io/github/v/release/Jrishi123/Motion_Capture?label=Release&style=flat-square)](https://github.com/Jrishi123/Motion_Capture/releases/latest)
+
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://github.com/Jrishi123/Motion_Capture)
+
+
 
 
 This project demonstrates how to interface a motion capture (MoCap) camera system on a Linux environment using OpenCV and other tools. It captures real-time video, tracks motion, logs data, and enables optional 3D pose tracking.
